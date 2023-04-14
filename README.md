@@ -3,6 +3,8 @@
 ## Introduction
 This is a basic conversational bot that uses Bayes Theorem. Currently working in Spanish, you can change `learner.js` (common ways of making questions), `answers.js` (Edith answers) and [model](https://alphacephei.com/vosk/models) (unpack as 'model' on current folder) to your desired language.
 
+![](https://github.com/alvaro-cas/bot-edith/blob/main/edith-test.mp4?raw=true)
+
 ***
 
 ## Requirements
