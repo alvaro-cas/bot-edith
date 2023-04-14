@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bayes": "^1.0.0",
+    "google-tts-api": "^2.0.2",
+    "node-mpv": "^1.5.0",
+    "vosk": "^0.3.39",
+    "weather-js": "^2.0.0"
+  }
+}
